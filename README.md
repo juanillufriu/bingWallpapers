@@ -18,4 +18,8 @@ Una herramienta sencilla y ligera para obtener el fondo de pantalla diario de Bi
 * PyInstaller (Para la creación del ejecutable)
 
 ---
+## ⚖️ Disclaimer
+Este proyecto no está afiliado, asociado, autorizado, respaldado ni conectado oficialmente de ninguna manera con Microsoft Corporation o Bing. El nombre "Bing", así como los nombres, marcas, emblemas e imágenes relacionados, son marcas registradas de sus respectivos propietarios.
+
+---
 Desarrollado por [Juan Ignacio Llufriu/juanillufriu] - 2026
