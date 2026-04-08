@@ -8,7 +8,7 @@ Una herramienta sencilla y ligera para obtener el fondo de pantalla diario de Bi
 * **Portable:** Ejecutable `.exe` de un solo clic.
 
 ## 🚀 Uso rápido
-1. Ve a la sección de [Releases](github.com/juanillufriu/bingWallpapers/).
+1. Ve a la carpeta raíz del proyecto [bingWallpapers](github.com/juanillufriu/bingWallpapers/).
 2. Descarga el archivo `bing_wallpaper.exe`.
 3. Ejecútalo y la imagen se guardará automáticamente en una carpeta BingWallpapers (se encuentra en la misma ruta donde tengas tu .exe descargado).
 
