@@ -8,9 +8,9 @@ Una herramienta sencilla y ligera para obtener el fondo de pantalla diario de Bi
 * **Portable:** Ejecutable `.exe` de un solo clic.
 
 ## 🚀 Uso rápido
-1. Ve a la carpeta raíz del proyecto (bingWallpapers).
-2. Descarga el archivo `bing_wallpaper.exe`.
-3. Ejecútalo y la imagen se guardará automáticamente en una carpeta BingWallpapers (se encuentra en la misma ruta donde tengas tu .exe descargado).
+1. Descarga el ejecutable desde la sección de **Releases**.
+2. Ejecútalo en cualquier carpeta.
+3. El programa creará automáticamente una carpeta llamada `BingWallpapers` y guardará la imagen del día allí con la fecha actual.
 
 ## 🛠️ Tecnologías utilizadas
 * Python (Backend del script)
