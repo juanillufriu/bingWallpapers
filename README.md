@@ -1,4 +1,7 @@
 # Bing Daily Wallpaper Downloader 🖼️
+<p align="left">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+</p>
 
 Una herramienta sencilla y ligera para obtener el fondo de pantalla diario de Bing en su máxima resolución directamente en tu PC.
 
